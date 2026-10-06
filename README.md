@@ -1,7 +1,8 @@
-### Hey! I'm Eftalya 👋
+# Hey, I'm Eft 
 
-I'm interested in AI security. I started my journey with blue teaming, and I'm currently building my way up, one project at a time.
+AI. Cybersecurity. LLMs.
 
-**Interests:** LLM Security · ML Security · SOC 
+I build things, break things,  
+and occasionally understand why they broke.
 
-Mostly writing Python and learning as I go.
+That's pretty much it.
